@@ -1,0 +1,21 @@
+#dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.searchBtn {
+  background-color: #808080;
+  color: #4189F2;
+  border-radius: 12px;
+  border: none;
+  line-height: 2rem;
+  width: 100px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 14px;
+  background: white;
+  transition-duration: .3s;
+  margin-top: 10px;
+}
